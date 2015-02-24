@@ -113,7 +113,7 @@ module VestalVersions
       include Reset
       include Conditions
       include Control
-      include VersionTagging
+#      include VersionTagging
       include Reload
       include Deletion
 
